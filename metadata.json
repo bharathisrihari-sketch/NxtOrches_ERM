@@ -1,0 +1,6 @@
+{
+  "name": "Nxt Orchestrator — Enterprise Readiness Matrix",
+  "description": "End-to-end enterprise transformation guide and architecture orchestrator for scaling web apps to millions of users, heavy data volumes, and zero-trust security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
